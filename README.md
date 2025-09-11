@@ -15,20 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Sharpwave.ai
+## About 
 
-Sharpwave.ai is an innovative product that leverages advanced AI technology to remove ambient and background noise from audio and video recordings while enhancing human speech. Our cutting-edge algorithms ensure that your recordings are crystal clear and free from unwanted noise, making them perfect for professional use.
+I'm building AI/ML systems. Applying it for real and sharing back.
 
-### Features
-
-- **AI-Powered Noise Removal**: Our AI algorithms effectively eliminate ambient and background noise from your recordings.
-- **Speech Enhancement**: Enhance the clarity and quality of human speech in your audio and video files.
-- **Easy Integration**: Seamlessly integrate Sharpwave.ai into your existing workflow with our user-friendly API.
-
-### Benefits
-
-- **Improved Audio Quality**: Enjoy crystal clear audio with reduced background noise and enhanced speech.
-- **Professional Recordings**: Make your recordings sound professional and polished, perfect for podcasts, interviews, and presentations.
-- **Time-Saving**: Save time on manual noise reduction and audio editing with our automated AI solution.
-
-Discover the power of Sharpwave.ai and elevate the quality of your audio and video recordings with our state-of-the-art AI technology.
+Co-founder of Stealth Labs. An Agentic AI consulting firm powered by our platform Michie.

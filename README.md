@@ -1,22 +1,24 @@
-## Hi there 👋
+## Hi, I'm Sammy 👋
 
-<!--
-**SammyhDev/SammyhDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI/ML systems for real-world use, and I share what I learn along the way.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 **[Stealth Labs](https://stealthlabs.uk)**: Co-founder and Co-Chair. 
+- 🛡️ **[Dynamo](https://dynamomaritime.com)**: Founder. AI security tools for consumers and small developers.
+- ⚓ **Seaworthy**: Dynamo's first product, now live on npm under [`@dynamomaritime`](https://www.npmjs.com/org/dynamomaritime). It launches on Product Hunt soon.
 
-## About 
+### How I build
 
-I'm building AI/ML systems. Applying it for real and sharing back.
+I run most of my work through teams of autonomous agents that research, write up ideas, triage and ship, with one shared setup across every project. The aim is to keep it as automated and affordable as possible.
 
-Co-founder of Stealth Labs. An Agentic AI consulting firm powered by our platform Michie.
+### Interests
+
+- 🔐 AI security and compliance for indie devs and small consultancies
+- 🤖 Agentic workflows and multi-agent tooling
+- 🚀 Turning AI from demos into products people use
+
+### Get in touch
+
+💬 Ask me about agentic AI, AI security, or building with small teams and lots of agents.
+🌐 [stealthlabs.uk](https://stealthlabs.uk) · [dynamomaritime.com](https://dynamomaritime.com)
